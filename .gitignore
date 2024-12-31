@@ -1,0 +1,9 @@
+# Unity generated
+Temp/
+output/
+Library/
+obj/
+Build/
+*.csproj.user
+*.suo
+*.userprefs
